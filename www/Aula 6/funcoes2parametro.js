@@ -4,3 +4,4 @@ function somaNumeros(a, b) {
 }
 
 somaNumeros(10, 12);
+
